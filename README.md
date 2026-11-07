@@ -45,7 +45,7 @@ esa variación de forma simple.
 ## Fuente de datos
 
 Banco Central de la República Argentina (BCRA).
-Datos obtenidos: 06/11/2026
+Datos hasta: 14/11/2026 y descargados el 06/11/2026
 
 ## Próximas mejoras
 
