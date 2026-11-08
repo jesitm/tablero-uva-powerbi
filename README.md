@@ -56,5 +56,5 @@ Datos hasta: 14/11/2026 y descargados el 06/11/2026
 
 ## Autora
 
-**Jessica Torres**, Consultora de datos
-Power BI | SQL | Python
+**Jessica Torres Molina** · Consultora de datos · Power BI, SQL y Python
+[LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/) · [GitHub](https://github.com/jesitm)
